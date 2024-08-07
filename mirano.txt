@@ -1,1 +1,2 @@
 hello git v1 
+i understand git and github
